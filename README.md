@@ -1,3 +1,6 @@
+# ConcheHelloWorld
+
+A swift HelloWorld app for testing builds with Conche.
 
 ## License
 
